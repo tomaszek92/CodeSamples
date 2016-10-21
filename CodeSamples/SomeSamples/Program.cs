@@ -50,7 +50,9 @@ namespace SomeSamples
             //Sample_2_38.Do();
             //Sample_2_42.Do();
             //Sample_2_54.Do();
-            Sample_2_56.Do();
+            //Sample_2_56.Do();
+
+            GetObjectSize.Do();
 
             Console.ReadKey();
         }

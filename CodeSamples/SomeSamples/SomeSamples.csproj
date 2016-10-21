@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Chapter2\GetObjectSize.cs" />
     <Compile Include="Chapter2\Sample_2_1.cs" />
     <Compile Include="Chapter2\Sample_2_10.cs" />
     <Compile Include="Chapter2\Sample_2_12.cs" />
